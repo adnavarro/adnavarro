@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://c1.wallpaperflare.com/preview/171/852/28/keyboard-coffee-desk-monitor.jpg" width="600" height="300"/>
+  <img src="https://cdn.midjourney.com/b837ceac-f0ed-4476-ab5f-66cccbd98196/grid_0.png" width="600" height="300"/>
 </div>
 
 ---
@@ -17,6 +17,7 @@
 - 🏖️ In my free time I like to read books, play some guitar and videogames!
 - 📬 How to reach me:
     - alfonsonavarromedina@gmail.com
+    - [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alfonso-navarro-883718140/)
     - [![Upwork Badge](https://img.shields.io/badge/-Upwork-green?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f8ec77f9aa69d5f4)
 
 ---
