@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://drive.google.com/file/d/1GZQvJ2km9hS0jIJq14C3PugSYkApTTWQ/view?usp=drive_link" width="600" height="300"/>
+  <img src=https://github.com/adnavarro/adnavarro/blob/main/Banner.png width="600" height="300"/>
 </div>
 
 ---
