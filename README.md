@@ -18,7 +18,6 @@
 - 📬 How to reach me:
     - alfonsonavarromedina@gmail.com
     - [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alfonso-navarro-883718140/)
-    - [![Upwork Badge](https://img.shields.io/badge/-Upwork-green?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f8ec77f9aa69d5f4)
 
 ---
 
