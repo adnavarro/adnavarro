@@ -12,9 +12,9 @@
 ---
 
 ### About Me :
-- 🎮 I’m a game development from Venezuela
-- 🔭 I'm currently working in a personal project called "A Cruel Angel Thesis"
-- 🏖️ In my free time I like to read books, play some guitar and videogames!
+- 🎮 I’m a game development from Venezuela.
+- 🔭 I'm currently learning japanese!
+- 🏖️ In my free time I like to read books, play guitar and videogames.
 - 📬 How to reach me:
     - alfonsonavarromedina@gmail.com
     - [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alfonso-navarro-883718140/)
