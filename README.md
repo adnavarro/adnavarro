@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src=https://github.com/adnavarro/adnavarro/blob/main/Banner.png width="600" height="300"/>
+  <img src=https://github.com/adnavarro/adnavarro/blob/main/AnimeBoy.jpg width="600" height="300"/>
 </div>
 
 ---
@@ -16,7 +16,7 @@
 - 🔭 I'm currently learning japanese!
 - 🏖️ In my free time I like to read books, play guitar and videogames.
 - 📬 How to reach me:
-    - alfonsonavarromedina@gmail.com
+    - alfonsodnavarro.work@gmail.com
     - [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alfonso-navarro-883718140/)
 
 ---
