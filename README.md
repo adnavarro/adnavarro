@@ -1,8 +1,7 @@
 <div id="header" align="center">
   <h1>
-    Welcome!
+    ようこそ！
   </h1>
-  <img src="https://komarev.com/ghpvc/?username=adnavarro&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div align="center">
@@ -14,7 +13,7 @@
 ### About Me :
 - 🎮 I’m a game developer from Venezuela.
 - 🔭 I'm currently learning japanese!
-- 🏖️ In my free time I like to read books, play guitar and videogames.
+- 🏖️ In my free time I like to read books, play guitar and video games.
 - 📬 How to reach me:
     - alfonsodnavarro.work@gmail.com
     - [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alfonso-navarro-883718140/)
@@ -25,7 +24,6 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
