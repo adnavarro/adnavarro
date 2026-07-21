@@ -12,10 +12,10 @@
 
 ### About Me :
 - 🎮 I’m a game developer from Venezuela.
-- 🔭 I'm currently learning japanese!
+- 🔭 I'm currently studying for Japanese N2 level!
 - 🏖️ In my free time I like to read books, play guitar and video games.
 - 📬 How to reach me:
-    - alfonsodnavarro.work@gmail.com
+    - alfonsodnavarro.dev@gmail.com
     - [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alfonso-navarro-883718140/)
 
 ---
